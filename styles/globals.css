@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Tus estilos globales personalizados (si los tienes) */
+/* Por ejemplo: */
+body {
+    /* algún estilo global para el body */
+    background:#0000;
+}
